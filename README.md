@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Fitur Unggulan (Gacoer Features)
+## ✨ Fitur Unggulan
 
 Aplikasi ini bukan sekadar pencatat transaksi, tapi sistem manajemen toko yang lengkap:
 
